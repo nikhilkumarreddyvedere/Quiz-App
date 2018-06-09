@@ -1,7 +1,7 @@
 
 <?php
-$accessKey = 'u$r9170e774879ad57ee9bef667f549351e';
-$secretKey = '4406947c3dbfd9bf8aeeea21b6429acddaec98bd';
+$accessKey = 'xxxxxxxxxxxxxxxxxxxx';
+$secretKey = 'yyyyyyyyyyyyyyyyyyyy';
 $api_url_base = 'https://api.leadsquared.com/v2/LeadManagement.svc';
 $url = $api_url_base . '/Lead.Create?accessKey=' . $accessKey . '&secretKey=' . $secretKey;	
 /*
